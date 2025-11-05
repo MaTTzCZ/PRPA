@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c28577a-4428-4599-aa28-599e3b6e9083" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Main.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.hs" beforeDir="false" afterPath="$PROJECT_DIR$/Main.hs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +77,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
-        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
@@ -98,6 +99,18 @@
       <workItem from="1759315609399" duration="3929000" />
       <workItem from="1759319614984" duration="156000" />
       <workItem from="1759320387731" duration="16000" />
+      <workItem from="1759918020729" duration="475000" />
+      <workItem from="1759918686500" duration="13000" />
+      <workItem from="1759919628340" duration="4436000" />
+      <workItem from="1759924355813" duration="279000" />
+      <workItem from="1759925828688" duration="51000" />
+      <workItem from="1761737450362" duration="5143000" />
+      <workItem from="1761749405143" duration="19000" />
+      <workItem from="1762273894600" duration="1855000" />
+      <workItem from="1762281889732" duration="72000" />
+      <workItem from="1762356156105" duration="1065000" />
+      <workItem from="1762358125396" duration="95000" />
+      <workItem from="1762364024584" duration="648000" />
     </task>
     <servers />
   </component>
